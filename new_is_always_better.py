@@ -7,7 +7,7 @@ BROADCAST = "ff:ff:ff:ff:ff:ff"
 
 def int_to_hex(num: int) -> hex:
     """
-    Converts an integer to a hex representation.
+    Converts an integer to a hex representation. 
     :param num: the number to convert.
     :return: the hex representation of the number.
     """
